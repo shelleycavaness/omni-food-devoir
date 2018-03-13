@@ -4,7 +4,7 @@
 
 * {
   margin: 0;
-  /* padding: 0; */
+  padding: 0;
   box-sizing: border-box;    
 }
 
@@ -144,6 +144,8 @@ text-align: center;
     transform: scale(1.03);
     
 }
+
+
 /*-------Section work and city----------------------*/
 .row-box{display:flex;}
 .app-screen{
@@ -171,8 +173,6 @@ text-align: center;
 .one-of-4-box{
     width: 24%;
     padding: 2px;
-    margin-left: 2px;
-   
 }
 .city-photos{
     width: 100%;   
